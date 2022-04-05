@@ -58,7 +58,7 @@ Plan of action
 **The end**
 
 
-Entry 3 - 5 April 2022
+**Entry 3 - 5 April 2022**
 
 Sorry for the long absence. After a lot of consultation, Youtube videos and self-experiments; I realised that being a developer is not for me. What I was looking for was to be an analyst. Doing data analysis projects brought joy while the developer side did not (I was only after the hype without first doing a bit of self-analysis).
 
