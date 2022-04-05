@@ -55,5 +55,21 @@ How do you feel?
 Plan of action
 - continue with the exercises
 -- with exams, I'll have more time to learn #Finally
-
 **The end**
+
+
+Entry 3 - 5 April 2022
+
+Sorry for the long absence. After a lot of consultation, Youtube videos and self-experiments; I realised that being a developer is not for me. What I was looking for was to be an analyst. Doing data analysis projects brought joy while the developer side did not (I was only after the hype without first doing a bit of self-analysis).
+
+So here we are...
+
+New destination: Data Scientist/Analyst
+
+What am I doing about it: IBM Data Analyst Professional Certification and DataCamp's Data Analyst pathway. Listing analysis code (Python, SQL and PowerBI) on Github.
+While doing this, I am applying to any/all data science/analyst positions advertised. I am going to finish my teaching career by the end of the last UK school term (15 July).
+The lack of job security is stressful, but I am surrounded by a lot of people who are in the data world. My hope is that, through constant conversation, I will be able secure my first job as a Data Scientist/Analyst.
+
+Just remember your mission: Doing whatever you must whether you feel like it or not. 
+**The end**
+
